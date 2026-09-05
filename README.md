@@ -77,8 +77,5 @@ props/estado), CSS externo por componente (`import './Componente.css'`) e imagen
 
 ## Pendências
 
-- Gravar e publicar o **Pitch Vídeo** (até 3 min, só a funcionalidade nova + como o
-  React foi aplicado) e inserir o link na Home (`src/components/Hero.jsx`, constante
-  `LINK_PITCH_VIDEO`) e no PDF de entrega.
 - Montar o PDF (integrantes + link do PV + link do deploy) e o ZIP final, conforme a
   "Forma de entrega" do enunciado.
